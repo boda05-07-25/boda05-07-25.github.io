@@ -10,11 +10,11 @@ body{
 
 @media (max-width: 400px) {
     .countdown-item {
-       width: 65px; 
-    height: 95px; 
+       width: 60px; 
+    height: 90px; 
     } 
     .countdown-item span {
-font-size: 35px;  
+font-size: 30px;  
     } 
     .countdown-item .label{
          font-size: 12px; 
