@@ -8,18 +8,6 @@ body{
     
 }
 
-@media (max-width: 400px) {
-    .countdown-item {
-       width: 60px; 
-    height: 90px; 
-    } 
-    .countdown-item span {
-font-size: 30px;  
-    } 
-    .countdown-item .label{
-         font-size: 12px; 
-    }
-}
 @media (min-width: 500px){
 
     body{
@@ -1153,6 +1141,19 @@ flex-direction: column;
     list-style: none;
 
 }
+
+@media (max-width: 400px) {
+    .countdown-item {
+       width: 60px; 
+    height: 90px; 
+    } 
+    .countdown-item span {
+font-size: 30px;  
+    } 
+    .countdown-item .label{
+         font-size: 10px; 
+    }  
+}  
 
  
  
